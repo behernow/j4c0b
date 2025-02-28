@@ -1,33 +1,33 @@
 {
-  "name": "mastra-onchain",
-  "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "mastra dev",
-    "format": "biome check --write ."
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "description": "",
-  "type": "module",
-  "dependencies": {
-    "@ai-sdk/anthropic": "^1.1.11",
-    "@farcaster/core": "^0.15.6",
-    "@mastra/core": "^0.4.2",
-    "@noble/ed25519": "^2.2.3",
-    "@zoralabs/protocol-deployments": "^0.5.3",
-    "@zoralabs/protocol-sdk": "^0.13.4",
-    "mastra": "^0.2.6",
-    "replicate": "^1.0.1",
-    "viem": "^2.23.5",
-    "zod": "^3.24.2"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@types/node": "^22.13.5",
-    "tsx": "^4.19.3",
-    "typescript": "^5.7.3"
-  }
+	"name": "j4c0b",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "mastra dev",
+		"format": "biome check --write ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"description": "",
+	"type": "module",
+	"dependencies": {
+		"@ai-sdk/anthropic": "^1.1.11",
+		"@farcaster/core": "^0.15.6",
+		"@mastra/core": "^0.4.2",
+		"@noble/ed25519": "^2.2.3",
+		"@zoralabs/protocol-deployments": "^0.5.3",
+		"@zoralabs/protocol-sdk": "^0.13.4",
+		"mastra": "^0.2.6",
+		"replicate": "^1.0.1",
+		"viem": "^2.23.5",
+		"zod": "^3.24.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@types/node": "^22.13.5",
+		"tsx": "^4.19.3",
+		"typescript": "^5.7.3"
+	}
 }
